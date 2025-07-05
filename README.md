@@ -49,6 +49,8 @@ I'm currently diving deeper into **data security** and exploring how to improve 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosua-sn&layout=compact) 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosua-sn&show_icons=true&theme=tokyonight)
+
 ---
 
 ### 🙏 Closing
