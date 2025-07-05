@@ -45,9 +45,9 @@ I'm currently diving deeper into **data security** and exploring how to improve 
 
 ### My Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosua-sn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosua-sn&layout=compact&cache_seconds=60)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosua-sn&show_icons=true&theme=tokyonight&hide=stars,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosua-sn&show_icons=true&theme=tokyonight&hide=stars,issues&cache_seconds=60)
 
 ---
 
