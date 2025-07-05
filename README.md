@@ -47,7 +47,7 @@ I'm currently diving deeper into **data security** and exploring how to improve 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosua-sn&layout=compact&cache_seconds=60)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosua-sn&show_icons=true&theme=tokyonight&hide=stars,issues&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosua-sn&show_icons=true&theme=dark&hide=stars,issues&cache_seconds=60)
 
 ---
 
@@ -55,7 +55,12 @@ I'm currently diving deeper into **data security** and exploring how to improve 
 
 Thank you for visiting my profile. I’m always open to collaboration, learning, and building something meaningful together.
 
-<img src="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
