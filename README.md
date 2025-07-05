@@ -58,7 +58,7 @@ Thank you for visiting my profile. I’m always open to collaboration, learning,
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yosua-sn/yosua-sn/output/pacman-contribution-graph.svg">
 </picture>
 
 
