@@ -30,3 +30,12 @@
 
 ---
 
+<h2 align="center">🛠️ Skills & Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,postgresql,laravel,ubuntu,git,docker,vscode,postman,figma" />
+  </a>
+</p>
+
+---
