@@ -17,8 +17,15 @@
 <p align="center">
 💙 Passionate about building modern web applications<br>
 🚀 Full-Stack Web Developer focused on Laravel & PHP<br>
-🐳 Exploring Docker, Linux, and Cloud Technologies<br>
 🌱 Always learning and improving software architecture<br>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yosua-sn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
